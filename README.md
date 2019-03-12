@@ -34,13 +34,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+  Semantic HTML essentially describes the code. It gives the code meaning. Div, span, strong tags are all examples of what AREN'T semantic HTML tags. Header, nav, section, footer, address are all semantic HTML.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
+  Display: block --> takes up horizontal space and introduces page break. Block takes up whole width and most are set as block as default.
+
+  Display: inline --> span tags are inline by default. Takes up horizontal space of its content only. Content flows around it and respects the horizontal aspects of box model but not the vertical aspects.
+
 3. What are the 4 areas of the box model?
+
+  Margin, border, padding, content
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 5. Explain why git is valuable to a team of developers.
+
+  You can branch off and work on your own parts of a webstie and then merge all new updates to the master for production. If there are merge conflicts, assess the conflicts then proceed.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
